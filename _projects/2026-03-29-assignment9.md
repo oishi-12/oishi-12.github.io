@@ -15,3 +15,7 @@ excerpt: "See details of the assignment 9"
 ### Night time light data comaparison map
 ![ntl](/images/ntl.png)
 
+[pdf](https://oishi-12.github.io/files/FloodRepot.pdf)
+
+
+
