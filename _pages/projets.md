@@ -5,9 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-The projects will be shared in this page
-
-# Project
 The assignments of the Geo spatial programming course
 -
 
