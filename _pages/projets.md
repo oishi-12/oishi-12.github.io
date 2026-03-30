@@ -7,7 +7,7 @@ author_profile: true
 
 The projects will be shared in this page
 
-# Project 1
+# Project
 The assignments of the Geo spatial programming course
 -
 
