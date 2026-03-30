@@ -12,5 +12,6 @@ excerpt: "See details of the assignment 9"
 ### Map of flooded areas in Sylhet in 2017
 ![flooded areas](../images/flood.png)
 
-
+### Night time light data comaparison map
+![ntl data](../images/ntl.png)
 
