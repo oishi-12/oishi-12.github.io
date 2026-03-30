@@ -14,4 +14,5 @@ excerpt: "See details of the assignment 9"
 
 ### Night time light data comaparison map
 ![ntl data](../images/ntl.png)
+![ntl](/images/ntl.png)
 
